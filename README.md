@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MattiaToffolo
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning ...
 - 💞️ I’m looking for someone who wants to learn more about these topics together
 - 📫 Reach me on mattiatoffolo1@gmail.com
 
